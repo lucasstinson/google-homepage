@@ -1,36 +1,57 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
 .About {
   color: black;
   text-decoration:none;
   text-align:left;
+  padding: 7px;
 }
 
 .Store {
   color: black;
   text-decoration:none;
   text-align:left;
+  padding: 5px;
 }
 
 .Gmail {
-  text-align: right;
   text-decoration:none;
   color: black;
-  text-align:right;
+  float:right;
+  padding: 7px;
+  border-spacing: 10px;
 }
 
 .Images {
-  text-align: right;
   text-decoration:none;
   color: black;
-  text-align:right;
+  float:right;
+  padding: 7px;
+  border-spacing: 10px;
 }
 
 .SignIn {
-  text-align: right;
   text-decoration:none;
   background-color:  #4646f5;
   border-color: #4646f5;
   color: White;
   border-radius: 2px;
   padding: 10px;
-  text-align:right;
+  float:right;
+}
+
+.Google{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 55%;
+
 }
