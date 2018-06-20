@@ -1,0 +1,36 @@
+.About {
+  color: black;
+  text-decoration:none;
+  text-align:left;
+}
+
+.Store {
+  color: black;
+  text-decoration:none;
+  text-align:left;
+}
+
+.Gmail {
+  text-align: right;
+  text-decoration:none;
+  color: black;
+  text-align:right;
+}
+
+.Images {
+  text-align: right;
+  text-decoration:none;
+  color: black;
+  text-align:right;
+}
+
+.SignIn {
+  text-align: right;
+  text-decoration:none;
+  background-color:  #4646f5;
+  border-color: #4646f5;
+  color: White;
+  border-radius: 2px;
+  padding: 10px;
+  text-align:right;
+}
